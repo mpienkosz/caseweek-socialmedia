@@ -2,11 +2,11 @@
 This repository contains code for the "AI on Her Network Majesty's Service - How to extract knowledge from the Social Media" CaseWeek workshop on 16.04.2018. Please clone the contents of this repository to your local machine with git.
 
 To run the workshop code, you should have python3 installed (v3.6 recommended), as well as the number of required python packages: `numpy`, `tensorflow`(v1.7 recommended), `jupyter` and `tqdm`. 
-Please make sure to set up the environment at home before the workshop. The **Installation** section should help you with this if needed.
+Please make sure to set up the environment at home, before the workshop. The **Installation** section should help you with this if needed.
 
-Also, please make sure to check your setup at home before the workshop. The **Environment Test** section contains guidelines how to it.
+After installation, please make sure to check your setup. The **Environment Test** section contains guidelines how to it.
 
-The setup was tested on workstations with Ubuntu and Windows
+The setup was tested on workstations with Ubuntu and Windows.
 
 # Installation
 **1. Install git and python3 (v1.6 recommended)**
@@ -20,7 +20,7 @@ git clone https://github.com/mpienkosz/caseweek-socialmedia.git
 
 **3. Install required python packages: numpy, jupyter and tqdm**
 
-The easiest way to do so is to use the provided `requirements.txt` and pip. Open the terminal/console window, go to the `caseweek-socialmedia` directory and execute:
+The easiest way to do it is to use the provided `requirements.txt` and pip. Open the terminal/console window, go to the `caseweek-socialmedia` directory and execute:
 ```
 pip install -r requirements.txt
 ```
@@ -42,7 +42,7 @@ To test the environment, please open the terminal/console window, go to the `not
 ```
 jupyter notebook
 ```
-After this command, the jupyter app should automatically pop up in your browser. Open the browser, select the `Environment_Test.ipynb` notebook and run it.
+After executing this command, the jupyter app should automatically pop up in your browser. Open the browser, select the `Environment_Test.ipynb` notebook and run it.
 With the correctly set up environment, you should see the output similar to the following:
 
 ```
