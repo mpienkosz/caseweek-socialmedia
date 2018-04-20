@@ -4,7 +4,7 @@ In my opinion, best way to start in the area of the Machine Learning, Deep Learn
 
 1. For NLP (and Deep Learning): Deep Learning for Natural Language Processing course from Stanford 
    - Course page: http://cs224d.stanford.edu/
-   - Most recent lecture videos on youtube https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
+   - Most up-to-date lecture videos on youtube https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
 
 2. For Machine Learning: Andrew Ng's course on Coursera: https://www.coursera.org/learn/machine-learning
    - Generally the course is not free of charge, but you can choose "Audit" option when signing up for the course, and then you can watch videos for free :)
