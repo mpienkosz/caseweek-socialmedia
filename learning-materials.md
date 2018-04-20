@@ -3,15 +3,15 @@
 In my opinion, best way to start in the area of the Machine Learning, Deep Learning and NLP is by watching online courses. There is quite a lot of them online, but I recommend:
 
 1. For NLP (and Deep Learning): Deep Learning for Natural Language Processing course from Stanford 
-- Course page: http://cs224d.stanford.edu/
-- Most up-to-date lecture videos on youtube https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
+  - Course page: http://cs224d.stanford.edu/
+  - Most up-to-date lecture videos on youtube https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
 
 2. For Machine Learning: Andrew Ng's course on Coursera: https://www.coursera.org/learn/machine-learning
-- Generally the course is not free of charge, but you can choose "Audit" option when signing up for the course, and then you can watch videos for free :)
+  - Generally the course is not free of charge, but you can choose "Audit" option when signing up for the course, and then you can watch videos for free :)
 
 3. For Deep Learning: again, Andrew Ng and his Deep Learning specialization on Coursera https://www.coursera.org/specializations/deep-learning
-- As in Machine Learning course case, videos from these course are free with "Audit" option
-- The specialization consists of 5 courses, one of them (Sequence Models) is covers many topics from NLP domain
+  - As in Machine Learning course case, videos from these course are free with "Audit" option
+  - The specialization consists of 5 courses, one of them (Sequence Models) is covers many topics from NLP domain
   
 If you are new to the field and want to learn, choose at least one of these courses (whichever you find most interesting) and at least watch the videos. This should give you enough knowledge to understand basic concepts and learn further, e.g. by reading the research articles. 
 
