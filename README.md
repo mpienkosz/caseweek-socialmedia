@@ -1,5 +1,5 @@
 # caseweek-socialmedia
-This repository contains code for the "AI on Her Network Majesty's Service - How to extract knowledge from the Social Media" CaseWeek workshop on 16.04.2018. Please clone the contents of this repository to your local machine with git.
+This repository contains code for the "AI on Her Network Majesty's Service - How to extract knowledge from the Social Media" CaseWeek workshop organized on 16.04.2018 in Warsaw, Poland by Samsung R&D Institute Poland. Please clone the contents of this repository to your local machine with git.
 
 To run the workshop code, you should have python3 installed (v3.6 recommended), as well as the number of required python packages: `numpy`, `tensorflow`(v1.7 recommended), `jupyter` and `tqdm`. 
 Please make sure to set up the environment at home, before the workshop. The **Installation** section should help you with this if needed.
